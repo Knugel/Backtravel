@@ -12,13 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf24d7b2aa0b4ec585be3aff218ebde7, type: 3}
   m_Name: Mod Info
   m_EditorClassIdentifier: 
-  ID: overmine.example
-  Name: Example Mod
-  Description: 'This is a multiline
-
-    description of this mod!'
+  ID: backtravel
+  Name: Backtravel
+  Description: 
   Version: 1.0.0
-  Bundle: overmine.example
+  Bundle: backtravel
   Assembly: {fileID: 5897886265953266890, guid: f363e93247b6a77449a067ae6f01131d,
     type: 3}
   CopyToGameDirectory: 1

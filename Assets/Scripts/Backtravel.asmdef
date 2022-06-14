@@ -1,5 +1,5 @@
 {
-    "name": "Overmine.Example",
+    "name": "Backtravel",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -10,7 +10,8 @@
         "BehaviorDesigner.Runtime.dll",
         "Overmine.API.dll",
         "UnderMine.dll",
-        "Unity.TextMeshPro.dll"
+        "Unity.TextMeshPro.dll",
+        "0Harmony.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
